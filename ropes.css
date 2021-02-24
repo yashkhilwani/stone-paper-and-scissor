@@ -9,8 +9,9 @@
     font-size: 30px !important;
   }
   .options button{
-    width:90px !important;
-    height: 30px !important;
+    width:75px !important;
+    height: 25px !important;
+    margin:15px !important;
   }
  .hands img{
   max-width: 100% !important;
@@ -28,7 +29,7 @@
 
 section {
   height: 100vh;
-  background-color: rgb(39, 41, 68);
+  background-color: #272e38;
   font-family: sans-serif;
 }
 
@@ -69,7 +70,7 @@ section {
   border: none;
   color: rgb(224, 224, 224);
   font-size: 20px;
-  background: rgb(128,128,128);
+  background: rgb(45, 117, 96);
   border-radius: 3px;
   cursor: pointer;
 }
@@ -167,3 +168,4 @@ div.fadeIn {
     transform: translateY(0px);
   }
 }
+
